@@ -2,7 +2,9 @@
 
 Terraform module which creates AWS ElastiCache resources.
 
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+> [!NOTE]
+>
+> This is a temporary fork of [terraform-aws-modules/terraform-aws-elasticache](https://github.com/terraform-aws-modules/terraform-aws-elasticache), because the developers are seeking [sponsorship](https://github.com/terraform-aws-modules/terraform-aws-elasticache/pull/49#issuecomment-3428230614) to merge pull requests contributed by the community.
 
 ## Usage
 
